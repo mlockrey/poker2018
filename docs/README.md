@@ -2,8 +2,8 @@
 home: true
 heroImage: /heroes.png
 features:
-- title: DPAX 2018 Ticket Prize
-  details: Valued at $250, this prize will be given to the winner of our next Deaf Poker event, to be held in Lismore on 15 June 2018. A minimum of 10 players is required for this prize to be awarded.
+- title: Australian Deaf Poker's State of Origin V
+  details: On 5 October 2018, the Outcasts will be defending their title against a record 10 teams from around Australia and overseas. The team, led by Michael Lockrey and Gavin is Lloyd Britton, Nicholas Schulie, Scott Turner, Johnny Mahony
 - title: Come and play Poker with us
   details: In a relaxed, friendly, social environment during our monthly games held at the Lismore Deaf Society. 
 - title: Join our team for DPAX 2018
