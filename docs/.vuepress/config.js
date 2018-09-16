@@ -4,7 +4,7 @@ module.exports = {
   themeConfig: {
     search: false,
     nav: [
-      { text: 'Next Game: 15 June 2018', link: 'https://www.facebook.com/groups/162259904505618/' },
+      { text: 'Next Game: November 2018', link: 'https://www.facebook.com/groups/162259904505618/' },
       { text: 'Deaf Poker Australia', link: 'http://deafpoker.com.au' },
     ]
   }
