@@ -3,8 +3,7 @@ home: true
 heroImage: /heroes.png
 features:
 - title: Australian Deaf Poker Championships
-  details: On 5 October 2018, the Outcasts will be defending their title against 10 teams from around Australia and overseas. 
-  The team, led by Michael Lockrey and Gavin Rose-Mundy is Lloyd Britton, Johnny Mahony, Nikolas Schlie, Michael Shepherd, Scott Turner and Ersel Uzel. 
+  details: On 5 October 2018, the Outcasts will be defending their title against 10 teams from around Australia and overseas. The team, led by Michael Lockrey and Gavin Rose-Mundy is Lloyd Britton, Johnny Mahony, Nikolas Schlie, Michael Shepherd, Scott Turner and Ersel Uzel. 
 - title: Come and play Poker with us
   details: In a relaxed, friendly, social environment during our monthly games held in the beautiful Northern Rivers of New South Wales. 
 - title: Get in Touch with us
